@@ -1,0 +1,16 @@
+.jumbotron
+{
+    /* background-color: blue !important;  */
+
+    background-image: url(images/Group\ 5.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.h2
+{
+    background-position: center;
+}
+
+
